@@ -93,7 +93,5 @@ a public issue for anything exploitable.
 
 ## License
 
-Copyright © 2026 nomouse. All rights reserved.
-
-This source is published so it can be read and audited. No license is
-granted to copy, modify, or redistribute it.
+[MIT](LICENSE). This covers only this helper; the nomouse app is not part of
+this repository.
